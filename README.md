@@ -1,1 +1,1 @@
-The repo contains my experiences during learning SQL.
+The source of the trasks: https://sqlzoo.net/
